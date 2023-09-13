@@ -1,0 +1,4 @@
+﻿  ANKETA.cpp
+C:\с++\lab1\ANKETA\ANKETA.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\с++\lab1\ANKETA\ANKETA.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  ANKETA.vcxproj -> C:\с++\lab1\x64\Debug\ANKETA.exe
